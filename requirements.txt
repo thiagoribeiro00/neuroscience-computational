@@ -1,8 +1,0 @@
-torch
-norse
-lightkurve
-numpy
-pandas
-scikit-learn
-matplotlib
-tqdm
